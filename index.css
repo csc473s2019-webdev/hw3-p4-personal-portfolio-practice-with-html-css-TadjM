@@ -1,0 +1,14 @@
+html,
+body{
+    font-family: 'Open Sans';
+    text-align: center;
+}
+#navbar{
+    display: inline;
+}
+.welcome{
+    top: 0;
+    background: #e0ebe8;
+    min-height: 55vh;
+    padding-top: 45vh;
+}
